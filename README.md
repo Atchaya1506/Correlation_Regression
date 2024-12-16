@@ -60,14 +60,20 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 # Output
-```
+
 34 56 78 90 54
+
 32 67 63 18 04
+
 The Correlation coefficient is 0.045
+
 The Regression line Y on X is ::: y = 36.800 + 0.056 (x-62.400)
+
 <matplotlib.legend.Legend at 0x7a24e8bb8940>
-![Screenshot 2024-12-14 181209](https://github.com/user-attachments/assets/d1493b96-bc55-4515-8a2b-36be57014904)
-```
+
+![Screenshot 2024-12-14 181209](https://github.com/user-attachments/assets/d653c9b9-4dfe-4ac2-8b40-046ffb797594)
+
+
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
